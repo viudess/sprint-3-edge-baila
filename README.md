@@ -124,8 +124,8 @@ npm install
 npm start
 ```
 
--Ajuste o BACKEND_BASE em App.js para o IP da sua máquina (se rodar no celular físico).
--Abra no Expo Go (Android/iOS) ou emulador.
+- Ajuste o BACKEND_BASE em App.js para o IP da sua máquina (se rodar no celular físico).
+- Abra no Expo Go (Android/iOS) ou emulador.
 
 O app exibe:
 - Batimentos cardíacos em tempo real
