@@ -16,7 +16,7 @@ Fornecer uma solução que permita:
 
 ## 🏗️ Arquitetura do Sistema  
 
-![Arquitetura IoT](./docs/arquitetura.png) 
+![Arquitetura IoT](./images/diagrama.png) 
 
 ### 📌 Componentes Principais  
 
